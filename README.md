@@ -61,7 +61,6 @@ selenium webDriver, Eclipse, y Java, su finalidad es realizar un proceso de CRUD
 
 # 4) PASO FINAL 
 
-
    - Al momento de realizar la ejecución del script, evidenciamos el proceso para registrar un usuario.
 
 
