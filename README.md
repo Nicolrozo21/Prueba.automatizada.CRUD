@@ -1,4 +1,4 @@
-# DEMOS entrevista.
+# PRUEBA AUTOMATIZADA CRUD PHP.
 
 
 # 1) Descripcion del proyecto:
