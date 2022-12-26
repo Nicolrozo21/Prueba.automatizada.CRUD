@@ -8,7 +8,7 @@ selenium webDriver, Eclipse, y Java, su finalidad es realizar un proceso de CRUD
 
 
 
-# 3) Ejecucion del proyecto
+# 2) PASO 1 - Descargar el proyecto.
 
    - Abrimos la herramienta de eclipse y nos ubicamos en la siguiente pestaña: 
    
@@ -46,9 +46,11 @@ selenium webDriver, Eclipse, y Java, su finalidad es realizar un proceso de CRUD
     
     ![image](https://user-images.githubusercontent.com/95291737/201444974-2a629a10-603c-46b1-82f0-f63514875e23.png)
     
-# 4) Parte Final 
+# 4) PASO 2 Ejecutar proyecto
 
-   - ![image](https://user-images.githubusercontent.com/95291737/201445220-ca413bba-108e-42ec-b2a8-97b6e4fcf028.png)
+   - Habilitamos los 2 servicios para poder ejecutar nuestra prueba: 
+
+   - ![image](https://user-images.githubusercontent.com/95291737/209566660-0d601a94-d29b-4cf8-bc60-306286a54475.png)
 
     
     
