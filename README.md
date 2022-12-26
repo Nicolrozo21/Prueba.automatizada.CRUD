@@ -46,11 +46,24 @@ selenium webDriver, Eclipse, y Java, su finalidad es realizar un proceso de CRUD
     
     ![image](https://user-images.githubusercontent.com/95291737/201444974-2a629a10-603c-46b1-82f0-f63514875e23.png)
     
-# 4) PASO 2 Ejecutar proyecto
+# 3) PASO 2 - Ejecutar proyecto
 
    - Habilitamos los 2 servicios para poder ejecutar nuestra prueba: 
 
    - ![image](https://user-images.githubusercontent.com/95291737/209566660-0d601a94-d29b-4cf8-bc60-306286a54475.png)
+   
+   - Despues de tener habilitados los servicios, ejecutamos nuestro proyecto, en este caso se ejecuta primero el:
+     
+     1) TestGooglejava
+     2) TestGooglejava2
+     
+   - ![image](https://user-images.githubusercontent.com/95291737/209567120-3dd3c608-4530-4edf-962f-d70d911b9037.png)
+
+# 4) PASO FINAL 
+
+
+   - Al momento de realizar la ejecución del script, evidenciamos el proceso para registrar un usuario.
+
 
     
     
